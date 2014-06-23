@@ -3,7 +3,7 @@
 	<head>
 		<title>Home</title>
 		<meta charset="utf-8">
-		<meta name = "format-detection" content = "telephone=no" />
+		<meta name = "format-detection" content = "telephone=yes" />
 		<link rel="icon" href="images/favicon.ico">
 		<link rel="shortcut icon" href="images/favicon.ico" />
 		<link rel="stylesheet" href="booking/css/booking.css">
@@ -228,27 +228,28 @@
 		<footer>
 			<div class="container_12">
 				<div class="grid_12">
-					<div class="f_phone"><span>Call Us:</span> + 6285 2240 57100</div>										
-						<div class="st1">		
-							<div class="pull-left">
-								<div class="brand">Support Team</div>														
-								<br><br>
-								<ul class="list1">
-									<li><a href="http://www.unikom.ac.id" target="_blank">UNIKOM</a></li>
-									<li><a href="http://kuliahonline.unikom.ac.id" target="_blank">Kuliah Online Unikom</a></li>
-									<li><a href="http://blog.unikom.ac.id" target="_blank">Blog Unikom</a></li>
-									<li><a href="http://repository.unikom.ac.id" target="_blank">Repository Unikom</a></li>
-									<li><a href="http://elib.unikom.ac.id" target="_blank">Elib Unikom</a></li>
-								</ul>
-							</div>
+					<div class="f_phone"><span>Call Us:</span> + 6285 2240 57100</div>
+					<div class="socials">
+						<a href="http://www.twitter.com/ImanchaOS" target="_blank" class="fa fa-twitter"></a>
+						<a href="http://www.facebook.com/imancha.os" target="_blank" class="fa fa-facebook"></a>
+						<a href="https://plus.google.com/+ImanSyahOS/" target="_blank" class="fa fa-google-plus"></a>
+					</div>
+					<div class="st1">		
+						<div class="pull-left">
+							<div class="brand">Support Team</div>														
+							<br><br>
+							<ul class="list1">
+								<li><a href="http://www.unikom.ac.id" target="_blank">UNIKOM</a></li>
+								<li><a href="http://kuliahonline.unikom.ac.id" target="_blank">Kuliah Online Unikom</a></li>
+								<li><a href="http://blog.unikom.ac.id" target="_blank">Blog Unikom</a></li>									<li><a href="http://repository.unikom.ac.id" target="_blank">Repository Unikom</a></li>
+								<li><a href="http://elib.unikom.ac.id" target="_blank">Elib Unikom</a></li>
+							</ul>
 						</div>
-						<br>
-						<div class="st1">
-							<div class="copy pull-right">
-								<div class="brand">
-									Imancha<span class="color1">T</span>our 
-								</div>
-								&copy; 2014
+					</div>
+					<br>
+					<div class="st1">
+						<div class="copy pull-right">
+							<div class="brand">Imancha<span class="color1">T</span>our </div>&copy; 2014
 						</div>
 					</div>
 				</div>					

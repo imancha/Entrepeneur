@@ -96,7 +96,7 @@
 									</dt>
 									<br>
 									<dd><span>Phone:</span> +6285 2240 57100</dd>									
-									<dd>E-mail: <a href="mailto:travel@imancha.net" class="color1">travel@imancha.net</a></dd>
+									<dd>E-mail: <a href="mailto:travel@imanchaos.com" class="color1">travel@imanchaos.com</a></dd>
 								</dl>
 							</address>
 						</div>
@@ -144,7 +144,12 @@
 		<footer>
 			<div class="container_12">
 				<div class="grid_12">
-					<div class="f_phone"><span>Call Us:</span> + 6285 2240 57100</div>										
+					<div class="f_phone"><span>Call Us:</span> + 6285 2240 57100</div>
+					<div class="socials">
+						<a href="http://www.twitter.com/ImanchaOS" target="_blank" class="fa fa-twitter"></a>
+						<a href="http://www.facebook.com/imancha.os" target="_blank" class="fa fa-facebook"></a>
+						<a href="https://plus.google.com/+ImanSyahOS/" target="_blank" class="fa fa-google-plus"></a>
+					</div>
 						<div class="st1">		
 							<div class="pull-left">
 								<div class="brand">Support Team</div>														
